@@ -36,7 +36,7 @@ Here we are giving war package format
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://http:192.168.236.128:8081/repository/deva-Release/</url>
+            <url>http:192.168.236.128:8081/repository/deva-Release/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
